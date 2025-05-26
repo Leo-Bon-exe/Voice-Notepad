@@ -33,5 +33,6 @@
 [Google Play Store](https://play.google.com/store/apps/details?id=com.agilefalcon.voicenotepad) 
 
 
-
+![Screenshot_20250525_200003](https://github.com/user-attachments/assets/1eebd4cf-ce24-4726-a351-b3b32b7febd5)
+![Screenshot_20250525_195915](https://github.com/user-attachments/assets/84a60eae-5783-4e82-8ab4-d1aaec052041)
 
